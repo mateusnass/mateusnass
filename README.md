@@ -38,3 +38,5 @@
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
   
+  ![snake gif](https://github.com/mateusnass/mateusnass/blob/output/github-contribution-grid-snake.svg)
+  
